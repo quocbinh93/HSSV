@@ -23,13 +23,22 @@ namespace HSSV
                 Console.Write("Nhap diem hoa: ");
                 diemHoa = double.Parse(Console.ReadLine());
             }
+            public void InDuLieu(){
+                Console.WriteLine("Ma SV\tHo ten\tDiem toan\tDiem ly\tDiem hoa\tDiem TB");
+                Console.WriteLine("{0}\t{1}\t{2}\t{3}\t{4}\t{5}", maSV, hoTen, diemToan, diemLy, diemHoa, diemTB);
+            }
         }
         static void Main(string[] args)
         {
             SinhVien[] sv = new SinhVien[100];
             int n;
-            Console.Write("Nhap so sinh vien: ");
+            Console.Write("Nhap so sinh vien lon hon 5 va be hon 50: ");
             n = int.Parse(Console.ReadLine());
+            while (n<5 || n>50)
+            {
+                Console.Write("Nhap lai so sinh vien: ");
+                n = int.Parse(Console.ReadLine());
+            }
             for (int i = 0; i < n; i++)
             {
                 sv[i].NhapDuLieu();
