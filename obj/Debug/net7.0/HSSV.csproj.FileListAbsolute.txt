@@ -1,0 +1,15 @@
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\bin\Debug\net7.0\HSSV.exe
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\bin\Debug\net7.0\HSSV.deps.json
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\bin\Debug\net7.0\HSSV.runtimeconfig.json
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\bin\Debug\net7.0\HSSV.dll
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\bin\Debug\net7.0\HSSV.pdb
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.csproj.AssemblyReference.cache
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.AssemblyInfoInputs.cache
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.AssemblyInfo.cs
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.csproj.CoreCompileInputs.cache
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.dll
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\refint\HSSV.dll
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.pdb
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\HSSV.genruntimeconfig.cache
+D:\Phenikaa\C Sharp\Struct\HSSV\HSSV\obj\Debug\net7.0\ref\HSSV.dll
