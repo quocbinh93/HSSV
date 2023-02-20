@@ -23,10 +23,6 @@ namespace HSSV
                 Console.Write("Nhap diem hoa: ");
                 diemHoa = double.Parse(Console.ReadLine());
             }
-            public void InDuLieu(){
-                Console.WriteLine("Ma SV\tHo ten\tDiem toan\tDiem ly\tDiem hoa\tDiem TB");
-                Console.WriteLine("{0}\t{1}\t{2}\t{3}\t{4}\t{5}", maSV, hoTen, diemToan, diemLy, diemHoa, diemTB);
-            }
         }
         static void Main(string[] args)
         {
